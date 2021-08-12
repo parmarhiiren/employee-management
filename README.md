@@ -39,7 +39,7 @@
 
 - Clone the repository and change directory as below
     ```
-    > git clone https://github.com/psreddy24/emp-mgmt.git
+    > git clone https://github.com/parmarhiiren/emp-mgmt.git
     > cd emp-mgmt
     ```
 
